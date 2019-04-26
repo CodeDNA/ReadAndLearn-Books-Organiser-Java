@@ -11,7 +11,7 @@ Books organizer for university Students and Professors
 
 2) Open NetBeans and import the folder TermProject.
 
-3) In the 'DatabaseHandler.java' update the port number on line 37 if the connection port in MySQL is different.
+3) In the 'DatabaseHandler.java' update the port number on line 37 to the one you specified when you created the SQL connection.
 
 4) Open the 'CreateDb.sql' file and run the script to create the database.
 
